@@ -1,0 +1,8 @@
+{
+  "name": "ConnectRandom",
+  "description": "A modern, professional 1-to-1 random chat application with real-time messaging, video, and AI moderation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
